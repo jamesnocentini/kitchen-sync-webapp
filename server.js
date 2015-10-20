@@ -10,7 +10,7 @@
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-var syncGatewayURL = 'http://localhost:4984/kitchen-sync';
+var syncGatewayURL = 'http://syncgateway:4984/kitchen-sync';
 
 var fs = require('fs');
 var path = require('path');
